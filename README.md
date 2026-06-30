@@ -4,7 +4,7 @@
 - 💞️ I worked at RGT Co., Ltd, Seoul, South Korea.
 - 📫 Feel free to reach me via  manhtran4321@gmail.com
 - Status: currently, I am looking for a new job. 
-During working at RGT, I used Manh-RGT as my main GitHub account(https://github.com/Manh-RGT). Now I have shifted to this account as my main GitHub account.
+During working at RGT, I used Manh-RGT as my main GitHub account https://github.com/Manh-RGT. Now I have shifted to this account as my main GitHub account.
   
 
 <!--
