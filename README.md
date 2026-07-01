@@ -1,5 +1,4 @@
 Hi there 👋 I'm Tran Van Manh
-
 I'm a Robotics & AI Engineer passionate about building intelligent autonomous systems.
 
 - 🚀 About Me
@@ -15,14 +14,9 @@ I'm a Robotics & AI Engineer passionate about building intelligent autonomous sy
 
 📚 Previous GitHub Account
 
-During my time at RGT Co., Ltd., I primarily contributed using my company GitHub account:
-
-➡️ https://github.com/Manh-RGT
-
+During my time at RGT Co., Ltd., I primarily contributed using my company GitHub account:➡️ https://github.com/Manh-RGT
 Many of my robotics-related contributions and projects from that period can be found there.
-
 I have now transitioned to using this GitHub account as my primary account for all future projects and open-source contributions.
-
 <p align="center"> <img src="git.png" alt="Previous GitHub Account" width="600"/> </p>
 
 <!--
