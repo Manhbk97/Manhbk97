@@ -17,7 +17,7 @@ I'm a Robotics & AI Engineer passionate about building intelligent autonomous sy
 During my time at RGT Co., Ltd., I primarily contributed using my company GitHub account:➡️ https://github.com/Manh-RGT
 Many of my robotics-related contributions and projects from that period can be found there.
 I have now transitioned to using this GitHub account as my primary account for all future projects and open-source contributions.
-<p align="center"> <img src="git.png" alt="Previous GitHub Account" width="600"/> </p>
+<p align="center"> <img src="git.png" alt="Previous GitHub Account" width="800"/> </p>
 
 <!--
 **Manhbk97/Manhbk97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
