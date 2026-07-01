@@ -11,7 +11,7 @@ I'm a Robotics & AI Engineer passionate about building intelligent autonomous sy
 📫 Reach me at manhtran4321@gmail.com
 🤖 Robotics Projects
 
-<p align="center"> <img src="images/robots.png" alt="Robotics Projects" width="900"/> </p>
+<p align="center"> <img src="robots.png" alt="Robotics Projects" width="900"/> </p>
 
 📚 Previous GitHub Account
 
@@ -23,7 +23,7 @@ Many of my robotics-related contributions and projects from that period can be f
 
 I have now transitioned to using this GitHub account as my primary account for all future projects and open-source contributions.
 
-<p align="center"> <img src="images/previous-github.png" alt="Previous GitHub Account" width="900"/> </p>
+<p align="center"> <img src="git.png" alt="Previous GitHub Account" width="900"/> </p>
 
 <!--
 **Manhbk97/Manhbk97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
