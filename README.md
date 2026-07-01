@@ -2,14 +2,14 @@ Hi there 👋 I'm Tran Van Manh
 
 I'm a Robotics & AI Engineer passionate about building intelligent autonomous systems.
 
- **🚀 About Me
- **🤖 Interested in Autonomous Navigation, Reinforcement Learning, Robot Perception, Computer Vision, and Deep Learning.
- **🦾 Experienced in developing robotics software for autonomous mobile robots and AI-based applications.
- **🇰🇷 Previously worked at RGT Co., Ltd. in Seoul, South Korea.
- **🌱 Currently exploring advanced robotics, embodied AI, and learning-based control.
- **💼 Currently open to new opportunities.
- **📫 Reach me at manhtran4321@gmail.com
- **🤖 Robotics Projects
+- **🚀 About Me
+- **🤖 Interested in Autonomous Navigation, Reinforcement Learning, Robot Perception, Computer Vision, and Deep Learning.
+- **🦾 Experienced in developing robotics software for autonomous mobile robots and AI-based applications.
+- **🇰🇷 Previously worked at RGT Co., Ltd. in Seoul, South Korea.
+- **🌱 Currently exploring advanced robotics, embodied AI, and learning-based control.
+- **💼 Currently open to new opportunities.
+- **📫 Reach me at manhtran4321@gmail.com
+- **🤖 Robotics Projects
 
 <p align="center"> <img src="robot.png" alt="Robotics Projects" width="600"/> </p>
 
