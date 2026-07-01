@@ -11,7 +11,7 @@ I'm a Robotics & AI Engineer passionate about building intelligent autonomous sy
 📫 Reach me at manhtran4321@gmail.com
 🤖 Robotics Projects
 
-<p align="center"> <img src="robots.png" alt="Robotics Projects" width="900"/> </p>
+<p align="center"> <img src="robot.png" alt="Robotics Projects" width="900"/> </p>
 
 📚 Previous GitHub Account
 
